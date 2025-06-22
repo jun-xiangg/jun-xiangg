@@ -1,6 +1,8 @@
+![小狗](https://github.com/user-attachments/assets/8ecf24b3-2005-4fff-8038-cb6c3742b847)
+<!--
 ## Hi there 👋
 
-<!--
+
 **jun-xiangg/jun-xiangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
